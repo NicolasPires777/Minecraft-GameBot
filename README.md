@@ -12,6 +12,10 @@
     Voltando para o overworld seria necessário ir atrás de endermans para pegar seus olhos, assim que conseguir os 12 ele já pode ir atrás da stronghold, lugar onde poderá encontrar o portal do fim e ir ao encontro do dragão na dimensão do fim (Lugar onde um arco é indispensável, caso não tenha será extremamente dificil de vencer a batalha). Para começar o jogador deve destruir os cristais do fim para que o dragão não recupere vida e depois iria jogando flechas até o dragão descer para atacar e por fim poder ser atacado corpo-a-corpo, infligindo mais dano, ao dar um total de 50 de dano o jogador derrota o dragão e reabre o portal para casa.
     Assim o jogador iria avançando, tomando suas próprias decisões e escrevendo sua história enquanto utiliza da sua imaginação para criar a história na sua cabeça.
 
+## Sobre o Projeto
+
+    Este projeto foi desenvolvido para rodar em um bot do discord, a versão atual tem toda a história do game mas não está como mencionado em Aplicação ideial. Desenvolvi junto com um colega durante o ensino médio, foi o primeiro projeto envolvendo programação de ambos. Finalizamos em dezembro de 2022.
+
 ## Referencias
 
     Usamos algumas referencias para criar o jogo, no caso o próprio jogo do minecraft, e o jogo do minecraft story mode.
